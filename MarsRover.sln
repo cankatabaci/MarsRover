@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30524.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRover", "MarsRover\MarsRover.csproj", "{40F0A494-79F5-43A6-AE94-30607FF0770A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject1", "XUnitTestProject1\XUnitTestProject1.csproj", "{16797C18-A6A8-4FE3-A08A-842B8449F193}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRoverTest", "XUnitTestProject1\MarsRoverTest.csproj", "{16797C18-A6A8-4FE3-A08A-842B8449F193}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
