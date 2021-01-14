@@ -1,0 +1,11 @@
+language: csharp
+solution: MarsRover.sln
+mono: none
+dotnet: 3.0.103
+
+install:
+- dotnet restore
+
+script:
+- dotnet build
+- dotnet test MarsRoverTest/MarsRoverTest.csproj
